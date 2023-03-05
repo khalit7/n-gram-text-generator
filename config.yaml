@@ -1,0 +1,5 @@
+context_size : 5
+
+x_max_unigram: 500
+x_max_co_occurance: 2000
+
